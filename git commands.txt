@@ -4,3 +4,5 @@ git add
 git commit -m "your message here"
 git remote add origin https://github.com/ramonmitcs/Repo1.git
 git push -u origin master
+git config --global user.email "email for github"
+git config --global user.name "loginname for github"
