@@ -1,0 +1,10 @@
+ Volume in drive D is Data
+ Volume Serial Number is 6EA7-122F
+
+ Directory of d:\Source
+
+12/05/2020  11:48 PM    <DIR>          .
+12/05/2020  11:48 PM    <DIR>          ..
+12/05/2020  11:48 PM                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  328,826,298,368 bytes free
